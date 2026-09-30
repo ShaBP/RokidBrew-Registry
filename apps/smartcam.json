@@ -1,0 +1,26 @@
+{
+  "id": "smartcam",
+  "name": "SmartCam",
+  "category": "Camera",
+  "type": "glasses",
+  "version": "2.0.0",
+  "summary": "Hands-free rolling video recorder for Rokid AI Glasses",
+  "description": "Record on Rokid AI Glasses with on-glasses controls. Free recording works without a purchase; optional Pro activation adds MARK, Total Recall, and 1, 3, and 5 minute intervals.",
+  "author": "ShaBP",
+  "sourceUrl": "https://github.com/ShaBP/smartcam-rokid-apk",
+  "phoneRequired": false,
+  "artifacts": [
+    {
+      "target": "glasses",
+      "url": "https://smartcam-pro.pages.dev/SmartCam-Freemium-v2.0.0.apk",
+      "sha256": "ca76b5d57a2d70451392cec0686ef2719c2811530831b0235b5adfc4e3c31799",
+      "sizeBytes": 6353474,
+      "packageName": "com.shabp.rokid.intervalrecorder",
+      "versionCode": 34,
+      "versionName": "2.0.0"
+    }
+  ],
+  "listing": {
+    "descriptionMarkdown": "# SmartCam for Rokid AI Glasses\n\nSmartCam records hands-free video on Rokid AI Glasses. Recordings stay on the glasses. The free app works without purchase.\n\n## Features\n\n- On-glasses recording controls, portrait video, and pause/resume\n- Optional Pro upgrade: MARK important moments, Total Recall, and 1, 3, or 5 minute recording intervals\n- One-time Pro activation through smartcam-pro.pages.dev\n\n## Installation\n\nInstall the glasses APK. Open SmartCam and use the free recorder, or find the activation code on its Pro screen to buy the optional upgrade. Internet access is required for license activation and periodic status checks."
+  }
+}
