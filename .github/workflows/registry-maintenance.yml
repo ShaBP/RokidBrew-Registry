@@ -1,8 +1,6 @@
-name: Daily registry maintenance
+name: Registry maintenance
 
 on:
-  schedule:
-    - cron: "17 5 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
